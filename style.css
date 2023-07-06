@@ -5,3 +5,37 @@
     width: 1024px;
 
 }
+
+header {
+    background-color: rgb(43, 22, 48);
+    height: 118px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(29, 16, 32);
+    height: 118px;
+    text-align: center;
+    
+}
+
+
+nav{
+    background-color: rgb(71, 55, 79);
+    height: 118px;
+    text-align: center;   
+}
+
+main{
+    background-color: rgb(135, 101, 140);
+    height: 588px;
+    color: white;
+    font-size: 50px;
+    text-align: center
+    
+}
+
+footer{
+    background-color: rgb(43, 22, 48);
+    height: 118px;
+}
