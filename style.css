@@ -7,28 +7,32 @@
 }
 
 header {
-    background-color: rgb(43, 22, 48);
-    height: 118px;
+    /* background-color: rgb(43, 22, 48);
+    height: 118px; */
     text-align: center;
 }
 
 body {
-    background-color: rgb(29, 16, 32);
-    height: 118px;
+    /* background-color: rgb(29, 16, 32);
+    height: 118px; */
     text-align: center;
+    background-image: url("images/site_test.png");
+    background-repeat: no-repeat;
+    background-position: center center;
     
 }
 
 
 nav{
-    background-color: rgb(71, 55, 79);
-    height: 118px;
+    /* background-color: rgb(71, 55, 79); */
+    /* height: 118px; */
     text-align: center;   
+    font-size: 25px;
 }
 
 main{
-    background-color: rgb(135, 101, 140);
-    height: 588px;
+    /* background-color: rgb(135, 101, 140); */
+    /* height: 588px; */
     color: white;
     font-size: 50px;
     text-align: center
@@ -36,6 +40,6 @@ main{
 }
 
 footer{
-    background-color: rgb(43, 22, 48);
-    height: 118px;
+    /* background-color: rgb(43, 22, 48); */
+    /* height: 118px; */
 }
