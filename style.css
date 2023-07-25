@@ -6,6 +6,11 @@
 
 }
 
+img {
+    max-width:100%;
+    max-height: 100%;
+}
+
 header {
     /* background-color: rgb(43, 22, 48);
     height: 118px; */
@@ -18,7 +23,8 @@ body {
     text-align: center;
     background-image: url("images/site_test.png");
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center;
+    background-size: cover;
     
 }
 
@@ -34,7 +40,7 @@ main{
     /* background-color: rgb(135, 101, 140); */
     /* height: 588px; */
     color: white;
-    font-size: 50px;
+    font-size: 25px;
     text-align: center
     
 }
